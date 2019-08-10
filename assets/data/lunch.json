@@ -1,0 +1,19 @@
+{
+  "lunch": [
+    {
+      "item": "Burger",
+      "price": "$6.00",
+      "calories": "600"
+    },
+    {
+      "item": "Fries",
+      "price": "$1.60",
+      "calories": "250"
+    },
+    {
+      "item": "Pop",
+      "price": "$1.00",
+      "calories": "125"
+    }
+  ]
+}

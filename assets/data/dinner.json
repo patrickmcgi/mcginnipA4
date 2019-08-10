@@ -1,0 +1,19 @@
+{
+  "dinner": [
+    {
+      "item": "Steak",
+      "price": "$30.00",
+      "calories": "500"
+    },
+    {
+      "item": "Broccoli",
+      "price": "$0.60",
+      "calories": "200"
+    },
+    {
+      "item": "Potatoes",
+      "price": "$10.00",
+      "calories": "2500"
+    }
+  ]
+}
